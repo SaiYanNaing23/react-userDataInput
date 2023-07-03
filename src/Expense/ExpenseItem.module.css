@@ -1,0 +1,17 @@
+.nameAgeWrap {
+    display: flex;
+    border: 1px solid #807b7b;
+    width: 100%;
+    padding: 1rem;
+    background-color: #fff;
+    margin: 1rem;
+}
+.name {
+    font-size: 1.8rem;
+    color: #000;
+}
+.age {
+    font-size: 1.8rem;
+    color: #000;
+    margin-left: 1rem;
+}
